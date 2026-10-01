@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DriverMajorFunctionDisable/DriverMajorFunctionDisable.vcxproj" Id="caa8f85a-dc9b-4caf-967b-6cf84b2f96d3" />
+</Solution>
